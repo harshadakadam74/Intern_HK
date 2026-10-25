@@ -1,0 +1,46 @@
+
+STUDENT GRADE CALCULATOR - TEST CASES
+
+Test 1:
+Input: Priya, 95
+Expected: Grade A
+
+Test 2:
+Input: Rahul, 85
+Expected: Grade B
+
+Test 3:
+Input: Sneha, 75
+Expected: Grade C
+
+Test 4:
+Input: Amit, 65
+Expected: Grade D
+
+Test 5:
+Input: Neha, 45
+Expected: Grade F
+
+Test 6:
+Input: Student, 0
+Expected: Grade F
+
+Test 7:
+Input: Student, 100
+Expected: Grade A
+
+Test 8:
+Input: Student, -5
+Expected: Invalid marks message; ask again
+
+Test 9:
+Input: Student, 105
+Expected: Invalid marks message; ask again
+
+Test 10:
+Input: Student, abc
+Expected: Invalid input message; ask again
+
+Test 11:
+Input: Empty name
+Expected: Name cannot be empty; ask again
